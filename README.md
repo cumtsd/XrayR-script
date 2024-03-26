@@ -14,9 +14,9 @@ Find the source code here: [missovo/XrayR](https://github.com/missovo/XrayR)
 # 一键安装
 
 ```
-wget -N https://raw.githubusercontent.com/missovo/XrayR-script/main/install.sh && bash install.sh
+wget -N https://raw.githubusercontent.com/cumtsd/XrayR-script/main/install.sh && bash install.sh
 ```
 OR
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/missovo/XrayR-script/main/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/cumtsd/XrayR-script/main/install.sh)
 ```
